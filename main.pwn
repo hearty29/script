@@ -5,3 +5,4 @@ Added loot system
 Changes for gui style of inventory system using the
 Changes for login textdraw and speedo textdraw
 Fixed an issue when playing the hospital bed animation
+Changes for dynamic pickup and text for any entrance of business. dynamic door, house
