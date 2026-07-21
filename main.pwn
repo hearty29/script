@@ -8,3 +8,7 @@ Fixed an issue when playing the hospital bed animation
 Changes for dynamic pickup and text for any entrance of business. dynamic door, house
 Added dynamic vendor ownership system
 Added new injured system 
+
+git add .
+git commit -m "fix(voicechat): radio disconnect doesnt remove ..."
+
