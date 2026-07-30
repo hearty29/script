@@ -1,3 +1,3 @@
 # Wild Gaming RP 
 
-A new Way home
+discord.gg/J47rYgqfcC
