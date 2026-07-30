@@ -1,1 +1,2 @@
 -feat(inventory): allow community director to give items
+-added dynamic billiard system
