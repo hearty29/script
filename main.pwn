@@ -3,3 +3,4 @@
 -added multi-Channel Voice Communication System
 -added weapon durability system
 .-feat(horse): allowing players to /horsebet. 
+-added player left system (Player Label)
