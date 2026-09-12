@@ -4,3 +4,4 @@
 -added weapon durability system
 .-feat(horse): allowing players to /horsebet. 
 -added player left system (Label)
+-added xl & xxl backpack
